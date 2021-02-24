@@ -1,4 +1,5 @@
-# Python Intermediate
- Guided Project: Exploring Hacker News Posts
+# Exploring Hacker News Posts
  
- Project Link: https://github.com/atikahmd/Python-Intermediate/blob/main/Mission404.ipynb
+This analysis is part of the Dataquest guided project I worked on while learning Python Intermediate concepts.
+ 
+Project Link: https://github.com/atikahmd/Python-Intermediate/blob/main/Mission404.ipynb
